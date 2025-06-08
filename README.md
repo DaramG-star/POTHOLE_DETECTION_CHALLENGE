@@ -48,6 +48,11 @@
 - 두 가지 주요 실험(YOLOv5s, YOLOv8n)을 통해 각기 다른 접근 방식의 장단점을 비교 분석하고, 최적의 조합을 찾아냈습니다.
 - 데이터 증강, 특히 **조명 변화에 대한 강인함**을 확보하는 전략이 성능 향상에 결정적이었음을 입증했습니다.
 
+![image](https://github.com/user-attachments/assets/7c75a584-3961-4690-ac03-521767fbe1eb)
+
+![image](https://github.com/user-attachments/assets/a10e0b91-0c81-438b-9eaf-c41a6582797a)
+
+
 ## 3. 최종 결과 요약
 
 | 실험 | 모델 아키텍처 | 핵심 전략 | 최종 mAP@0.5 |
